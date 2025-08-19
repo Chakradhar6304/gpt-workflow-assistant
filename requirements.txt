@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+Flask
+requests
+gunicorn
