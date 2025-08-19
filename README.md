@@ -1,8 +1,6 @@
 GPT Workflow Assistant 🤖
 A full-stack, deployable AI assistant that answers questions based on a custom knowledge base. This project uses a RAG (Retrieval-Augmented Generation) architecture, combining the power of large language models with specific, private information.
 
-🚀 View Live Demo
-
 ✨ Features
 Full-Stack Application: A complete solution with a Python backend and a sleek, modern frontend.
 
